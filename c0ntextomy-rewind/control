@@ -1,0 +1,9 @@
+Package: com.c0ntextomy.rewind
+Name: c0ntextomy-rewind
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: c0ntextomy
+Author: c0ntextomy
+Section: Tweaks
